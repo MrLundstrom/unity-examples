@@ -1,0 +1,54 @@
+{
+    "name": "control",
+    "maps": [
+        {
+            "name": "Keys",
+            "id": "e42a2e12-c9ac-48a7-ad21-0cb11016edca",
+            "actions": [
+                {
+                    "name": "A",
+                    "type": "Button",
+                    "id": "c9be7e31-5e1d-4953-8002-0615475ff14c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "D",
+                    "type": "Button",
+                    "id": "4f18b9ba-65e7-4c0a-8941-f9d6d9b5b8a0",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e6942374-bf22-4c48-8620-0d24c567b9d5",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2f91f8cd-1694-495a-94ca-6295605b1371",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "D",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
